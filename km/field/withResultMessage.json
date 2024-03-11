@@ -1,0 +1,15 @@
+{
+  "$id": "c_withResultMessage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "With Result Message",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}
+

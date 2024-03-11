@@ -1,0 +1,20 @@
+{
+  "$id": "ce_locator.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Locator-default",
+  "entityType": "ce_locator",
+  "fields": [
+    "c_locatorMetaDescription",
+    "c_locatorMetaTitle",
+    "c_noResultMessage",
+    "c_searchNoResultMessage",
+    "c_searchPlaceholderText",
+    "c_searchSubTitle",
+    "c_searchTitle",
+    "c_searchWithResultMessage",
+    "c_withResultMessage",
+    "slug"
+  ],
+  "required": []
+}
+

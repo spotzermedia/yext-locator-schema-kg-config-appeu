@@ -1,0 +1,15 @@
+{
+  "$id": "c_locatorMetaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Locator Meta Description",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}
+

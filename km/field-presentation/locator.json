@@ -1,0 +1,73 @@
+{
+  "$id": "ce_locator",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_locator",
+  "displayName": "Locator",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "slug"
+        },
+        {
+          "id": "c_searchTitle"
+        },
+        {
+          "id": "c_searchSubTitle"
+        },
+        {
+          "id": "c_searchPlaceholderText"
+        },
+        {
+          "id": "c_noResultMessage"
+        },
+        {
+          "id": "c_withResultMessage"
+        },
+        {
+          "id": "c_searchNoResultMessage"
+        },
+        {
+          "id": "c_searchWithResultMessage"
+        },
+        {
+          "id": "c_locatorMetaTitle"
+        },
+        {
+          "id": "c_locatorMetaDescription"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}
+
